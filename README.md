@@ -32,11 +32,17 @@
 
 ## Input:
 
+![Screenshot 2024-12-02 200707](https://github.com/user-attachments/assets/02f9d65f-e59a-4192-aa0c-a9b3fa77d086)
+
+
 ### Output:
 
+![Screenshot 2024-12-02 200713](https://github.com/user-attachments/assets/52f4b210-ed44-4c54-a1ea-592a82e85808)
 
-### Name:
-### Register Number:
+
+
+### Name: BARANI S S 
+### Register Number: 24900119
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
